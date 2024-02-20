@@ -5,7 +5,7 @@
 
 ✅ I do strategic plans to perform testing with various types of test scenarios to ensure the Quality of the Product.
 
-👉 Contact me to build a stable and sustainable product for your business. Thank you 😊</i></h3>
+👉 Contact me to build a stable and sustainable product for your business. Thank you 😊</i></h3> <br>
 
 <img align="right" alt="Quality_Assurance" width="420" src="https://www.specbee.com/sites/default/files/inline-images/Software-Testing.jpg">
 
