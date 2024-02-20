@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my profile</h1>
-<h3 align="Left"><i>I'm a dedicated Software Quality Assurance Engineer with more than one year of experience as a manual tester with strong proficiency in Logistics and e-commerce domain.
+<h3 align="Left"><i>I'm a dedicated Software Quality Assurance Engineer with more than one year of experience as a manual tester with strong proficiency in Logistics and e-commerce project.
 
-<br>I have in-depth knowledge of front-end and back-end testing in agile environment. I have solid experience in API and manual testing of multiple integrated web domains along with iOS & Android Application. On top of that, I have experience on testing digital payment gateway.  </i> 
+<br>I have in-depth knowledge of front-end and back-end testing in agile environment. I have solid experience in API and multiple integrated web domain testing along with iOS & Android Application. On top of that, I have experience on testing digital payment gateway.  </i> 
 
 -------------------------------------------------------------------------------------------------------------------------
 ✔ I always try to find the best possible critical issues by making strategic plans and executing various test scenarios to ensure the stability of the product and also provide feedback to maintain its quality.
